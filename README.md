@@ -4,3 +4,6 @@ Mi Band 4 Watchface(.bin)
 Unpacking and packaging tools are in http://watchface.pingx.tech/tools
 <br>
 Final version:V.3.7
+<br>
+Preview
+<img src="Bandows_animated.gif">
